@@ -70,13 +70,3 @@ for i in range(len(x)-1) :
         ans += int(op+n)
         n = ''
 print(ans)
-
-
-
-c:/temp/exam.py
-d:/abc/TEMP/doc/temp.txt
-/Temp/doc/temp/quiz.xls
-temP/temp.py
-temp
-/temp
-/temp/
